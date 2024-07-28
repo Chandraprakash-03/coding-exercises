@@ -47,7 +47,7 @@ git clone https://github.com/Chandraprakash-03/coding-exercises.git
 2. **Navigate to the project directory**:
 
 ```bash
-cd coding-exercises/Exercise-2
+cd coding-exercises/exercise-2
 ```
 
 3. **Compile the project**:
