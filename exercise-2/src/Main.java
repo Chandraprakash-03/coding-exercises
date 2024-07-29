@@ -11,7 +11,6 @@ public class Main {
         private static final CommandHandler commandHandler = new CommandHandler(manager);
         private static final Logger logger = Logger.getInstance();
         
-
     public static void main(String[] args) {
 
         //Console menu
@@ -31,7 +30,6 @@ public class Main {
         System.out.println("Type 'exit' to quit");
 
         commandProcessing();
-       
     }
 
     /**
@@ -55,5 +53,4 @@ public class Main {
         scanner.close();
         logger.close();
     }
-   
 }
